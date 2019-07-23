@@ -1,3 +1,15 @@
+# 测试代码
+
+
+1.NGUI支持
+2.NGUI换行
+3.颜色支持
+
+
+    
+
+# OLD README
+
 # Arabic Letters Support For Unity
 This plugin allows you to use accurate and correct Arabic text in your game or 3D application. Supports Tashkeel and Hindu numbers. Supports 4 Persian Characters.
 
